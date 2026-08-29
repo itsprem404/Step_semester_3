@@ -1,27 +1,25 @@
-# Develop Branch
+## Date: 01-08-2026
 
-This is  **develop** branch of the `Step_semester_3` repository.
+[svg](https://github.com/itsprem404/Step_semester_3/tree/feature/session_1#date-22-08-2026)
 
-The develop branch contains the **base and empty Java project structure** for Semester 3.
+**Today's Work:**
 
-## Purpose
+* Completed Session 1 — Java Fundamentals practice problems.
+* Solved a program to check whether a number is Prime.
+* Solved a right-angled triangle star pattern program.
+* Solved a program to check whether a number is a Palindrome.
+* Solved a program to find the Greatest Common Divisor (GCD) using a while loop.
+* Solved a program to check whether a number is an Armstrong number.
 
-* Maintains the clean base project structure.
-* Serves as the starting point for all feature/session branches.
-* Contains no solved problems or session-specific code.
-* Remains unchanged as the clean project base throughout the semester.
+**Next Session Plan:**
 
-## Branch Structure
+* Learn and practice Java Strings and basic String manipulation.
+* Practice using `StringBuilder` for string operations.
+* Learn methods such as `split()`, `substring()`, `trim()`, and `length()`.
+* Practice character validation using `Character.isLetter()` and `Character.isDigit()`.
+* Work with arrays, loops, and conditional logic to solve basic programming problems.
+* Practice basic data handling and validation using Java collections such as `HashMap`.
 
-```text
-main
-  └── README.md
+**Issues Faced:**
 
-develop
-  └── Empty Java Project
-
-feature/session_n
-  └── Session-specific coding work
-```
-
-**Note:** Feature branches are created from `develop` and are kept separate rather than merged back into `develop`.
+* None
