@@ -1,27 +1,18 @@
-# Develop Branch
+## Date: 29-08-2026
 
-This is  **develop** branch of the `Step_semester_3` repository.
+[svg](https://github.com/itsprem404/Step_semester_3/tree/feature/session_2#date-29-08-2026)
 
-The develop branch contains the **base and empty Java project structure** for Semester 3.
+**Today's Work:**
 
-## Purpose
+* Completed Session 2 — Arrays problem-solving practice.
+* Solved the Two Sum problem using nested loops.
+* Solved the Best Time to Buy and Sell Stock problem using a single-pass array traversal.
+* Solved the Contains Duplicate problem using nested loops.
+* Solved the Merge Two Sorted Arrays problem using two-pointer traversal and a while loop.
+* Solved the Rotate Array problem using modulo arithmetic and a new array.
 
-* Maintains the clean base project structure.
-* Serves as the starting point for all feature/session branches.
-* Contains no solved problems or session-specific code.
-* Remains unchanged as the clean project base throughout the semester.
+**Next Session Plan:**
 
-## Branch Structure
+**Issues Faced:**
 
-```text
-main
-  └── README.md
-
-develop
-  └── Empty Java Project
-
-feature/session_n
-  └── Session-specific coding work
-```
-
-**Note:** Feature branches are created from `develop` and are kept separate rather than merged back into `develop`.
+* None
