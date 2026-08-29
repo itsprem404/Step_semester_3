@@ -1,4 +1,4 @@
-package JavaFundamentals.assignment_problems;
+package _03_JavaFundamentals.assignment_problems;
 
 import java.util.Scanner;
 

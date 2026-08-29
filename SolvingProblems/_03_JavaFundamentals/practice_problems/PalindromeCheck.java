@@ -1,25 +1,25 @@
-package JavaFundamentals.practice_problems;
+package _03_JavaFundamentals.practice_problems;
 
 import java.util.Scanner;
 
-public class ArmstrongCheck {
+public class PalindromeCheck {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
 
         int origNumber = number;
-        int sum = 0;
+        int reversedNumber = 0;
 
         while (number != 0) {
             int digit = number % 10;
-            sum += digit * digit * digit;
+            reversedNumber = reversedNumber * 10 + digit;
             number = number / 10;
         }
 
-        if (sum == origNumber) {
-            System.out.println(origNumber + " is an Armstrong number.");
+        if (origNumber == reversedNumber) {
+            System.out.println(origNumber + " is a Palindrome.");
         } else {
-            System.out.println(origNumber + " is not an Armstrong number.");
+            System.out.println(origNumber + " is not a Palindrome.");
         }
 
         scanner.close();

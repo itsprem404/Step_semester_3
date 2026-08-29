@@ -1,4 +1,4 @@
-package JavaFundamentals.practice_problems;
+package _03_JavaFundamentals.practice_problems;
 
 import java.util.Scanner;
 
