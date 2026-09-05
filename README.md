@@ -1,7 +1,5 @@
 ## Date: 05-09-2026
 
-[svg](https://github.com/itsprem404/Step_semester_3/tree/feature/session_5#date-05-09-2026)
-
 **Today's Work:**
 
 - Completed Session 5 — OOP Fundamentals practice problems.
